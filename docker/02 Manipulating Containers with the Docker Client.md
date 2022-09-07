@@ -82,3 +82,9 @@ sudo docker exec -it <container id> <command>
 ```
 
 - **-it** flag allows us to interact in the terminal with the container.
+
+### **9. Delete single container**
+
+```bash
+sudo docker rm <container id>
+```
